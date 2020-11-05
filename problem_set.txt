@@ -1,0 +1,16 @@
+Problem Set: Session I
+
+1.	The volume of a sphere with radius r is 4/3 πr^3. What is the volume of a sphere with radius 5?
+2.	Suppose the cover price of a book is $24.95, but bookstores get a 40% discount. Shipping costs $3 for the first copy and 75 cents for each additional copy. What is the total wholesale cost for 60 copies?
+3.	Ask a user his name, address and his hobby. Then print a statement as follows:
+You are <name>. You live in <address>. You like to do <> in your spare time.
+4. Write a program to take radius of a circle and print the area. 
+
+Practice Set: Session I
+1.	Write a Python program which accepts the radius of a circle from the user and compute the area.
+2.	Write a program, which prompts user perpendicular and base of a right angle triangle and returns the hypotenuse back to the user.
+3.	Write a Python program to display the current date and time.
+4.	Ask the user about his favorite football player and his favorite club. Then print a statement as follows: 
+You are a fan of <club> and you like <player>. 
+5.	Write a python program with comments which takes radius and height of a cylinder as an input. Then it calculates total surface area and volume of cylinder and prints those values. TSA=πr^2 + 2πrh, Volume = πr^2h
+
