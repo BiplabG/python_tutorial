@@ -1,0 +1,40 @@
+Problem Set
+1. Write a python program which has name, address, age and profession already set in the variables. 
+Then, ask user what information they want. Then, display only that information.
+
+2. Write a python program to determine if a number is even or odd.
+
+3. Write a python program to take the number from user and check if it is even and multiple of 5. 
+
+3. Write a python program to print first n integers. Take n input from the user. 
+Hint: Use while loop doing this.
+
+4. Write a python program to print first n fibonacci sequence. Take n input from the user. 
+Hint: A fibonacci sequence follows this rule: F(n+1) = F(n) + F(n-1) where first two numbers are 0 and 1 of the sequence. 
+0 1 1 2 3 5 8 13 ...
+
+5. Write a python program to check if a three digit number is palindrome or not. 
+Hint: Palindrome is a number which is same when read from either left hand side or right hand side. For example: 101 or 141 or 656 etc.
+
+Practice Set
+1. Write a python program to check if a number is multiple of 7 or not. 
+
+2. Write a python program which checks if a number is perfect square or not. 
+
+3. Write a python program to check if a number is prime or not. 
+Hint: a prime number is one which can only be exactly divided by 1 or the same number. 
+
+4. Write a python program which prints cube numbers less than a certain number provided by the user. 
+For example: if user inputs 33. 
+Output should be 0, 1, 8, 27
+
+5. Write a python program which works as a calculator, it only does two operation addition and substraction. 
+Everytime the program asks for two numbers and then operation. The program should be running all the time until user enters stop.
+
+6. Write a program, which will find all such numbers between 1000 and 3000
+(both included) such that each digit of the number is an even number.
+The numbers obtained should be printed in a comma-separated sequence on a
+single line.
+
+7. Write a program that accepts a sentence and calculate the number of
+letters and digits.
