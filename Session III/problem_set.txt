@@ -1,0 +1,14 @@
+Given a Python list. Turn every item of a list into its square
+
+Write a python program to store a user's attributes (name, address, age, profession) in a dictionary. 
+And return the attributes as asked by the user.
+
+Write a python program with a function which greets you if a name is provided. 
+
+Write a python program with a function which checks if a number is prime or not. 
+
+Write a python program to calculate factorial of a number. 
+
+With a given integral number n, write a program to generate a dictionary
+that contains (i, i*i) such that is an integral number between 1 and n
+(both included). and then the program should print the dictionary.

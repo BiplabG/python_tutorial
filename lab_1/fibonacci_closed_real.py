@@ -7,7 +7,7 @@ a = (1 + math.sqrt(5)) / 2
 b = (1 - math.sqrt(5)) / 2
 
 # array = np.sort(np.random.uniform(-5, 5, 100))
-array = np.arange(-5, 5, 0.1)
+array = np.arange(-10, 10, 0.1)
 print(array.shape)
 
 
